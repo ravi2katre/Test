@@ -1,12 +1,6 @@
 {
     "name": "ravi2katre/test",
     "type": "composer-plugin",
-    "require": {
-        "phpunit/phpunit": "9.6.x-dev"
-    },
-    "require-dev": {
-        "friendsofphp/php-cs-fixer": "dev-master"
-    },
     "autoload": {
         "psr-4": {
             "Ravi2katre\\Test\\": "src/"
@@ -17,5 +11,6 @@
             "name": "Ravi Katre",
             "email": "ravi2katre@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "stable"
 }
