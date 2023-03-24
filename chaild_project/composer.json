@@ -11,5 +11,7 @@
             "email": "ravi2katre@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "ravi2katre/test": "dev-main"
+    }
 }

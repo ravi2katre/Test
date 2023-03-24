@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "8bc95a2141bfebf60ad55da953b47897",
+    "packages": [
+        {
+            "name": "ravi2katre/test",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ravi2katre/Test.git",
+                "reference": "3edfe712241e135946040abb6ae1909e136e70e7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ravi2katre/Test/zipball/3edfe712241e135946040abb6ae1909e136e70e7",
+                "reference": "3edfe712241e135946040abb6ae1909e136e70e7",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "composer-plugin",
+            "autoload": {
+                "psr-4": {
+                    "Ravi2katre\\Test\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Ravi Katre",
+                    "email": "ravi2katre@gmail.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/ravi2katre/Test/issues",
+                "source": "https://github.com/ravi2katre/Test/tree/main"
+            },
+            "time": "2023-03-24T09:55:50+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "ravi2katre/test": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
