@@ -1,0 +1,15 @@
+{
+    "name": "ravi2katre/login",
+    "autoload": {
+        "psr-4": {
+            "Ravi2katre\\Login\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ravi Katre",
+            "email": "ravi2katre@gmail.com"
+        }
+    ],
+    "require": {}
+}
